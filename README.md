@@ -44,7 +44,10 @@ My Algorithm Playground.
 - 并查集
     - [NowCoder: KY126-畅通工程](NowCoder/KY126-畅通工程.cpp)
     - [NowCoder: KY175-连通图](NowCoder/KY175-连通图.cpp)
-    - [NowCoder: KY34-Is_It_A_Tree](NowCoder/)
+    - [NowCoder: KY34-Is_It_A_Tree](NowCoder/KY34-Is_It_A_Tree.cpp)
+    - [ ] 找出你的直系亲属（浙大）
+    - [ ] 第一题（上交）
+    - [ ] Head of a Gang（浙大）
 - 最小生成树
 - 最短路
 - 拓扑排序
