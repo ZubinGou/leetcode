@@ -17,6 +17,12 @@ My Algorithm Playground.
 
 
 ### 7 递归、分治
+- 递归
+    - [HDU: 2064-汉诺塔III](HDU/HDU-2064-汉诺塔III.cpp)
+    - [NowCoder: KY43-全排列](NowCoder/KY43-全排列.cpp) | [Solution 2](NowCoder/KY43-全排列-2.cpp) | [Solution 3](NowCoder/KY43-全排列-2.cpp)
+- 分治
+    - [NowCoder: KY85-二叉树](NowCoder/KY85-二叉树.cpp) | [Solution 2](NowCoder/KY85-二叉树-2.cpp)
+    - [NowCoder: KY103-2的幂次方](NowCoder/KY103-2的幂次方.cpp)
 
 
 ### 8 搜索
