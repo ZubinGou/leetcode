@@ -54,7 +54,10 @@ My Algorithm Playground.
     - [ ] 11.4 Freckles（北大）
     - [ ] 11.5 Jungle Rods（北大）
 - 最短路（Dijkstra 单源最短路 & Floyd 最短路）
-    - [HDU: 1874-畅通公路续](HDU/HDU-1874-畅通工程续-floyd.cpp)
+    - HDU: 1874-畅通公路续[Floyd](HDU/HDU-1874-畅通工程续-floyd.cpp) | [Dijkstra](HDU/HDU-1874-畅通工程续-dijkstra.cpp) | [Dijkstra堆优化](HDU/HDU-1874-畅通工程续-dijkstra-heap.cpp)
+    - 例11.7 最短路径问题（浙大）- 求出路径
+    - 11.6 最短路径（上交）
+    - 11.7 I Wanna Go Home（北大）
 - 拓扑排序
 - 关键路径
 
