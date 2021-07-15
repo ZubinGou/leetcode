@@ -1,4 +1,3 @@
-//所有基本的排序方法了，桶排序、基数排序暂不写了
 #include <iostream>
 using namespace std;
 
