@@ -9,6 +9,13 @@ My Algorithm Playground.
     - NowCoder: KY210-排序 [各种排序](NowCoder/KY210-排序.cpp) | [QuickSort](NowCoder/KY210-排序-quicksort.cpp)
     - [NowCoder: KY211-特殊排序](NowCoder/KY211-特殊排序.cpp)
     - [NowCoder: KY67-整数奇偶排序](NowCoder/KY67-整数奇偶排序.cpp)
+    - 3.3 小白鼠排队（北大）
+    - 3.4 奥运排序问题（浙大）
+- 查找（二分查找）
+    - [NowCoder: KY199-查找](NowCoder/KY199-查找.cpp)
+    - 3.5 找最小数（北邮）
+    - 3.6 打印极值点下标（北大）
+    - 3.7 找位置（华科）
 
 ### 3 字符串
 
@@ -66,5 +73,5 @@ My Algorithm Playground.
 - 关键路径
 
 ## References
-- 《王道机试指南》
+- 《王道机试指南》（上述题号出处）
 - 《算法笔记》
