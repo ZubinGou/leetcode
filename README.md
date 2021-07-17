@@ -79,8 +79,11 @@ My Algorithm Playground.
     - [NowCoder: KY22-最大序列和](NowCoder/KY22-最大序列和.cpp)
     - [NowCoder: KY63-最大子矩阵](NowCoder/KY63-最大子矩阵.cpp)
     - 12.2 最大连续子序列（浙大）
-- 最长递增子序列
-- 最长公共子序列
+- 最长递增子序列（LIS）
+    - [NwCoder: KY77-拦截导弹](NowCoder/KY77-拦截导弹.cpp)
+    - 例12.5 最大上升子序列和（北大）
+    - 12.3 合唱队形（北大）
+- 最长公共子序列（LCS）
 - 背包问题
 - 其他问题
 
