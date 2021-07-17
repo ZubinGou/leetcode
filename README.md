@@ -78,6 +78,7 @@ My Algorithm Playground.
 - 最大连续子序列和
     - [NowCoder: KY22-最大序列和](NowCoder/KY22-最大序列和.cpp)
     - [NowCoder: KY63-最大子矩阵](NowCoder/KY63-最大子矩阵.cpp)
+    - 12.2 最大连续子序列（浙大）
 - 最长递增子序列
 - 最长公共子序列
 - 背包问题
