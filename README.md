@@ -76,7 +76,7 @@ My Algorithm Playground.
 - 递归求解
     - [KY225 N阶楼梯上楼问题 | KY48 吃糖果](NowCoder/KY225-N阶楼梯上楼问题.cpp)
 - 最大连续子序列和
-    - 
+    - [KY22 最大序列和](NowCoder/KY22-最大序列和.cpp)
 - 最长递增子序列
 - 最长公共子序列
 - 背包问题
