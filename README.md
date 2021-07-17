@@ -80,11 +80,17 @@ My Algorithm Playground.
     - [NowCoder: KY63-最大子矩阵](NowCoder/KY63-最大子矩阵.cpp)
     - 12.2 最大连续子序列（浙大）
 - 最长递增子序列（LIS）
-    - [NwCoder: KY77-拦截导弹](NowCoder/KY77-拦截导弹.cpp)
+    - [NowCoder: KY77-拦截导弹](NowCoder/KY77-拦截导弹.cpp)
     - 例12.5 最大上升子序列和（北大）
     - 12.3 合唱队形（北大）
 - 最长公共子序列（LCS）
+    - LeetCode: 1143-Longest Common Subsequence [LCS](LeetCode/1143-Longest_Common_Subsequence.cpp) | [LCS O(N)空间优化](LeetCode/1143-Longest_Common_Subsequence.cpp)
+
+    - 12.4 Coincidence（上交）
 - 背包问题
+    1. 01背包
+    2. 完全背包
+    3. 多重背包
 - 其他问题
 
 ## References
