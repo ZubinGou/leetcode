@@ -85,10 +85,12 @@ My Algorithm Playground.
     - 12.3 合唱队形（北大）
 - 最长公共子序列（LCS）
     - LeetCode: 1143-Longest Common Subsequence [LCS](LeetCode/1143-Longest_Common_Subsequence.cpp) | [LCS O(N)空间优化](LeetCode/1143-Longest_Common_Subsequence.cpp)
-
     - 12.4 Coincidence（上交）
 - 背包问题
     1. 01背包
+        - [NowCoder: KY66-点菜问题](NowCoder/KY66-点菜问题.cpp)
+        - 12.5 采药（北大）
+        - 12.6 最小邮票数（清华）
     2. 完全背包
     3. 多重背包
 - 其他问题
