@@ -92,6 +92,7 @@ My Algorithm Playground.
         - 12.5 采药（北大）
         - 12.6 最小邮票数（清华）
     2. 完全背包
+        - [HDU: 1114-Piggy-Bank](HDU/HDU-1114-Piggy-Bank.cpp)
     3. 多重背包
 - 其他问题
 
