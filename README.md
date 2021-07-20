@@ -96,6 +96,7 @@ My Algorithm Playground.
     3. 多重背包（取 K 件）
         - [HDU: 2191-珍惜现在，感恩生活](HDU/HDU-2191-珍惜现在，感恩生活.cpp)
 - 其他问题
+    - [POJ: 1163-The_Triangle](POJ/poj-1163-The_Triangle.cpp)
 
 ## References
 - 《王道机试指南》（上述题号出处）
