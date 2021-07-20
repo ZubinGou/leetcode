@@ -87,13 +87,14 @@ My Algorithm Playground.
     - LeetCode: 1143-Longest Common Subsequence [LCS](LeetCode/1143-Longest_Common_Subsequence.cpp) | [LCS O(N)空间优化](LeetCode/1143-Longest_Common_Subsequence.cpp)
     - 12.4 Coincidence（上交）
 - 背包问题
-    1. 01背包
+    1. 01背包（取一件）
         - [NowCoder: KY66-点菜问题](NowCoder/KY66-点菜问题.cpp)
         - 12.5 采药（北大）
         - 12.6 最小邮票数（清华）
-    2. 完全背包
+    2. 完全背包（取无数件）
         - [HDU: 1114-Piggy-Bank](HDU/HDU-1114-Piggy-Bank.cpp)
-    3. 多重背包
+    3. 多重背包（取 K 件）
+        - [HDU: 2191-珍惜现在，感恩生活](HDU/HDU-2191-珍惜现在，感恩生活.cpp)
 - 其他问题
 
 ## References
