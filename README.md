@@ -97,6 +97,9 @@ My Algorithm Playground.
         - [HDU: 2191-珍惜现在，感恩生活](HDU/HDU-2191-珍惜现在，感恩生活.cpp)
 - 其他问题
     - [POJ: 1163-The_Triangle](POJ/poj-1163-The_Triangle.cpp)
+    - [LightOJ: 1004-Monkey_Banana_Problem](LightOJ/1004-Monkey_Banana_Problem.cpp) | [O(N)空间优化](LightOJ/1004-Monkey_Banana_Problem-2.cpp)
+    - 12.7 放苹果（北大）
+    - 12.8 整数拆分（清华）
 
 ## References
 - 《王道机试指南》（上述题号出处）
