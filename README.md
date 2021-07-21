@@ -30,7 +30,8 @@ My Algorithm Playground.
     - [HDU: 5281-Seniors_Gun](HDU/HDU-5281-Seniors_Gun.cpp)
     - 7.1 代理服务器（清华）
 - 区间贪心
-    - 
+    - [HDU: 2037今年暑假不AC](HDU/HDU-2037-今年暑假不AC.cpp)
+    - [CodeForces: 556D-Case_of_Fugitive](CodeForces/556D-Case_of_Fugitive.cpp)
     - 7.2 To Fill or Not to Fill（浙大）
 
 
