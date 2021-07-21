@@ -25,6 +25,9 @@ My Algorithm Playground.
 
 
 ### 6 贪心
+- 简单贪心
+    - [HDU: 1009-FatMouse_Trade](HDU/HDU-1009-FatMouse_Trade.cpp)
+- 区间贪心
 
 
 ### 7 递归、分治
