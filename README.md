@@ -27,6 +27,8 @@ My Algorithm Playground.
 ### 6 贪心
 - 简单贪心
     - [HDU: 1009-FatMouse_Trade](HDU/HDU-1009-FatMouse_Trade.cpp)
+    - [HDU: 5281-Seniors_Gun](HDU/HDU-5281-Seniors_Gun.cpp)
+    - 7.1 代理服务器（清华）
 - 区间贪心
 
 
