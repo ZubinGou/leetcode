@@ -63,7 +63,7 @@ My Algorithm Playground.
     - [NowCoder: KY212-二叉树遍历(前中序->后序)](NowCoder/KY212-二叉树遍历.cpp)
 - 二叉排序树
     - [NowCoder: KY207-二叉排序树](NowCoder/KY207-二叉排序树.cpp) | [解法二](NowCoder/KY207-二叉排序树-2.cpp)
-    - 
+    - [NowCoder: KY124-二叉搜索树](NowCoder/KY124-二叉搜索树.cpp)
 - 优先列表
 - 散列表
 

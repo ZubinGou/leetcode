@@ -18,7 +18,7 @@ struct TreeNode
     TreeNode(int v) : val(v), leftChild(nullptr), rightChild(nullptr) {}
 };
 
-TreeNode* insert(TreeNode* root, int now, int father)
+TreeNode *insert(TreeNode *root, int now, int father)
 {
     if (!root)
     {
