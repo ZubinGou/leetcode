@@ -71,8 +71,9 @@ My Algorithm Playground.
     2. 哈夫曼树
         - [NowCoder: KY188-哈夫曼树](NowCoder/KY188-哈夫曼树.cpp)
 - 散列
-    - 例10.7 查找学生信息（清华）
     - [NowCoder: KY146-魔咒词典](NowCoder/KY146-魔咒词典.cpp)
+    - [NowCoder: KY68-子串计算](NodeCoder/KY68-子串计算.cpp)
+    - 例10.7 查找学生信息（清华）
     - 10.4 统计同成绩学生人数（浙大）
     - 10.5 开门人和关门人（北大）
     - 10.6 谁是你的潜在朋友（北大）
