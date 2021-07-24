@@ -65,6 +65,9 @@ My Algorithm Playground.
     - [NowCoder: KY207-二叉排序树](NowCoder/KY207-二叉排序树.cpp) | [解法二](NowCoder/KY207-二叉排序树-2.cpp)
     - [NowCoder: KY124-二叉搜索树](NowCoder/KY124-二叉搜索树.cpp)
 - 优先列表
+    1. 顺序问题
+        - [NowCoder: KY196-复数集合](NodeCoder/../NowCoder/KY196-复数集合.cpp)
+    2. 哈夫曼树
 - 散列表
 
 
