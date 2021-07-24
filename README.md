@@ -18,6 +18,7 @@ My Algorithm Playground.
     - 3.7 找位置（华科）
 
 ### 3 字符串
+- 字符串匹配（KMP算法）
 
 ### 4 向量、队列、栈
 
@@ -72,7 +73,7 @@ My Algorithm Playground.
         - [NowCoder: KY188-哈夫曼树](NowCoder/KY188-哈夫曼树.cpp)
 - 散列
     - [NowCoder: KY146-魔咒词典](NowCoder/KY146-魔咒词典.cpp)
-    - [NowCoder: KY68-子串计算](NodeCoder/KY68-子串计算.cpp)
+    - [NowCoder: KY68-子串计算](NowCoder/KY68-子串计算.cpp)
     - 例10.7 查找学生信息（清华）
     - 10.4 统计同成绩学生人数（浙大）
     - 10.5 开门人和关门人（北大）
