@@ -26,7 +26,8 @@ int main()
 {
     int n;
     string cmd, complex_str;
-    priority_queue<Complex> pq;
+    priority_queue<Complex> pq;  // C++ 默认为最大堆（大的在前）
+    // priority_queue<int, vector<int>, greater<int> > small_heap;  // 最小堆
     while (cin >> n)
     {
         for (int i = 0; i < n; i++)
@@ -45,11 +46,12 @@ int main()
             }
             else if (cmd == "Insert")
             {
-                cin >> complex_str;
-                int add_pos = complex_str.find("+");
                 Complex now;
-                now.real = stoi(complex_str.substr(0, add_pos));
-                now.imaginary = stoi(complex_str.substr(add_pos + 2));
+                // cin >> complex_str;
+                // int add_pos = complex_str.find("+");
+                // now.real = stoi(complex_str.substr(0, add_pos));
+                // now.imaginary = stoi(complex_str.substr(add_pos + 2));
+                scanf("%d+i%d", &now.real, &now.imaginary);
                 pq.push(now);
                 cout <<"SIZE = " << pq.size() << endl;
             }

@@ -66,9 +66,16 @@ My Algorithm Playground.
     - [NowCoder: KY124-二叉搜索树](NowCoder/KY124-二叉搜索树.cpp)
 - 优先列表
     1. 顺序问题
-        - [NowCoder: KY196-复数集合](NodeCoder/../NowCoder/KY196-复数集合.cpp)
+        - [NowCoder: KY196-复数集合](NowCoder/KY196-复数集合.cpp)
+        - 10.3 搬水果（吉大）
     2. 哈夫曼树
-- 散列表
+        - [NowCoder: KY188-哈夫曼树](NowCoder/KY188-哈夫曼树.cpp)
+- 散列
+    - 例10.7 查找学生信息（清华）
+    - [NowCoder: KY146-魔咒词典](NowCoder/KY146-魔咒词典.cpp)
+    - 10.4 统计同成绩学生人数（浙大）
+    - 10.5 开门人和关门人（北大）
+    - 10.6 谁是你的潜在朋友（北大）
 
 
 ### 10 图论
