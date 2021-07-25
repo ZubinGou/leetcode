@@ -19,6 +19,10 @@ My Algorithm Playground.
 
 ### 3 字符串
 - 字符串匹配（KMP算法）
+    - [HDU: 1711-Number_Sequence](HDU/HDU-1711-Number_Sequence.cpp)
+    - [ ] 例4.7 Oulipo
+    - [ ] 4.6 字符串匹配（北航）
+    - [ ] 4.7 String Matching（上交）
 
 ### 4 向量、队列、栈
 
