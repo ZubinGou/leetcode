@@ -103,6 +103,7 @@ My Algorithm Playground.
     - [ ] 11.6 最短路径（上交）
     - [ ] 11.7 I Wanna Go Home（北大）
 - 拓扑排序
+    - [HDU: 3342-Lega_or_Not](HDU/HDU-3342-Legal_or_Not.cpp)
 - 关键路径
 
 ### 11 动态规划
