@@ -104,7 +104,10 @@ My Algorithm Playground.
     - [ ] 11.7 I Wanna Go Home（北大）
 - 拓扑排序
     - HDU: 3342-Lega_or_Not [邻接矩阵](HDU/HDU-3342-Legal_or_Not.cpp) | [邻接表](HDU/HDU-3342-Legal_or_Not-2.cpp)
+    - [ ] 例11.9 确定比赛名次
 - 关键路径
+    - [HDU: 4109-Instruction_Arrangement](HDU/HDU-4109-Instrction_Arrangement.cpp)
+    
 
 ### 11 动态规划
 - 递归求解
