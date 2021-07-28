@@ -1,6 +1,14 @@
 # LeetCode & POJ & NowCoder & UVa
 My Algorithm Playground.
 
+## 剑指offer
+
+### Refs
+- [NowCoder](https://www.nowcoder.com/ta/coding-interviews)
+- [AcWing](https://www.acwing.com/problem/search/1/?search_content=%E5%89%91%E6%8C%87offer)
+- [官方源代码](https://github.com/zhedahht/CodingInterviewChinese2)
+- https://github.com/Jack-Cherish/LeetCode
+
 ## Category
 ### 1 暴力
 
