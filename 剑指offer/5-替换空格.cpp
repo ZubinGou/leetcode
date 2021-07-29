@@ -10,6 +10,9 @@
 
 using namespace std;
 
+/*
+从尾到头比较效率更高
+*/
 
 class Solution {
 public:
