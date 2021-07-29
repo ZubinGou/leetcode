@@ -10,6 +10,10 @@
 
 using namespace std;
 
+/*
+因为每个结点的数不同，所以可以提前用 hash map 存储每个数在 inorder 数组中的位置，每次寻找当前根结点位置复杂度为 O(1)
+*/
+
 struct TreeNode
 {
     int val;
