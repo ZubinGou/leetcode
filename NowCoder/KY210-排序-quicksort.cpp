@@ -18,7 +18,6 @@ int partition(int left, int right) {
     // 快排简单写法：双指针前移法（需要指定 pivot 为最后一个元素）
     int pivot = a[right];
     int i = left;
-    int j = right;
     for (int j = left; j < right; j++) {
         if (a[j] < pivot)  // 将小的元素依次移动到开头
             swap(a[i++], a[j]);
