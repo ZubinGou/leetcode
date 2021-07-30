@@ -11,17 +11,15 @@
 using namespace std;
 
 /*
-回溯法，复杂度 O(M * N * 3^K)
+DFS，复杂度 O(M * N * 3^K)
 M行，N列，K为字符串长度
+1. 将使用过的单词改为特殊符号
 */
 
 class Solution
 {
-private:
-    vector<vector<int>> directions = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
-
 public:
-    bool backtrace(vector<vector<char>> &matrix, string &str, int pos, int i, int j, vector<vector<bool>> &visited)
+    bool backtrace(vector<vector<char>> &matrix, string &str, int pos, int i, int j)
     {
         // cout << "back pos=" << pos << " " << i << " " << j << endl;
         if (str[pos] != matrix[i][j])
@@ -29,18 +27,18 @@ public:
         if (pos == str.length() - 1)
             return true; // end
 
-        visited[i][j] = true;
-        for (auto d : directions)
+        int dx[4] = {0, 0, -1, 1}, dy[4] = {-1, 1, 0, 0};
+        char temp = matrix[i][j];
+        matrix[i][j] = '*';
+        for (int k = 0; k < 4; k++)
         {
-            int new_i = i + d[0];
-            int new_j = j + d[1];
-            if (new_i >= 0 && new_i < matrix.size() && new_j >= 0 && new_j < matrix[0].size() && !visited[new_i][new_j])
-            {
-                if (backtrace(matrix, str, pos + 1, new_i, new_j, visited))
+            int new_i = i + dx[k];
+            int new_j = j + dy[k];
+            if (new_i >= 0 && new_i < matrix.size() && new_j >= 0 && new_j < matrix[0].size())
+                if (backtrace(matrix, str, pos + 1, new_i, new_j))
                     return true;
-            }
         }
-        visited[i][j] = false;
+        matrix[i][j] = temp;
         return false;
     }
 
@@ -49,15 +47,10 @@ public:
         if (matrix.size() == 0 || matrix[0].size() == 0 || str.length() == 0)
             return false;
         int m = matrix.size(), n = matrix[0].size();
-        vector<vector<bool>> visited(m, vector<bool>(n, false));
         for (int i = 0; i < m; i++)
-        {
             for (int j = 0; j < n; j++)
-            {
-                if (backtrace(matrix, str, 0, i, j, visited))
+                if (backtrace(matrix, str, 0, i, j))
                     return true;
-            }
-        }
         return false;
     }
 };
