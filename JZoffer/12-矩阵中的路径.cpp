@@ -10,6 +10,11 @@
 
 using namespace std;
 
+/*
+回溯法，复杂度 O(M * N * 3^K)
+M行，N列，K为字符串长度
+*/
+
 class Solution
 {
 private:
