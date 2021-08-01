@@ -11,6 +11,13 @@
 
 using namespace std;
 
+/*
+大数，两种解法
+1. 大数加法
+2. 排列
+这里采用相对简单的排列
+*/
+
 class Solution {
 private:
     vector<int> res;
