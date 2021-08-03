@@ -1,9 +1,10 @@
-# LeetCode & POJ & NowCoder & UVa
+# LeetCode & POJ & NowCoder & UVa :rocket:
 My Algorithm Playground.
 
-## 剑指offer
+## 剑指offer（第二版）
+- [前三章](JZoffer)
 
-### Refs
+### References
 - [AcWing](https://www.acwing.com/problem/search/1/?search_content=%E5%89%91%E6%8C%87offer)
 - [NowCoder](https://www.nowcoder.com/ta/coding-interviews)
 - [官方源代码](https://github.com/zhedahht/CodingInterviewChinese2)
@@ -149,6 +150,5 @@ My Algorithm Playground.
 ## References
 - 《王道机试指南》（上述题号出处）
 - 《算法笔记》
+- 《剑指offer（第二版）》
 
-## Notes
-- float & double 浮点类型不能直接判等
