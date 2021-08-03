@@ -14,7 +14,7 @@ My Algorithm Playground.
 
 ### 2 排序、查找
 - 排序
-    - NowCoder: KY210-排序 [各种排序](NowCoder/KY210-排序.cpp) | [QuickSort](NowCoder/KY210-排序-quicksort.cpp)
+    - NowCoder: KY210-排序 [各种排序](NowCoder/KY210-排序.cpp) | [QuickSort](NowCoder/KY210-排序-quicksort.cpp) | [QuickSort 非递归](NowCoder/KY210-排序-quicksort-非递归.cpp)
     - [NowCoder: KY211-特殊排序](NowCoder/KY211-特殊排序.cpp)
     - [NowCoder: KY67-整数奇偶排序](NowCoder/KY67-整数奇偶排序.cpp)
     - 3.3 小白鼠排队（北大）
