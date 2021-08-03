@@ -65,7 +65,7 @@ My Algorithm Playground.
 
 - DFS
   - [POJ: 2488-A_Knights_Journey](POJ/poj-2488-A_Knights_Journey.cpp)
-  - [UVa: 10364-square](Uva/10364-square.cpp) | [Solution 2](Uva/10364-square-2.cpp)
+  - [UVa: 10364-square](UVa/10364-square.cpp) | [Solution 2](UVa/10364-square-2.cpp)
   - POJ：神奇的口袋
   - POJ：八皇后
 
