@@ -149,3 +149,6 @@ My Algorithm Playground.
 ## References
 - 《王道机试指南》（上述题号出处）
 - 《算法笔记》
+
+## Notes
+- float & double 浮点类型不能直接判等
